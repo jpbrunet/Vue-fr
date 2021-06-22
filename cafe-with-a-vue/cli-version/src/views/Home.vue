@@ -8,6 +8,7 @@
 			est difficile de s'arrêter.
 		</p>
 
+
 		<section class="menu">
 			<h2>Menu</h2>
 			<MenuItem
